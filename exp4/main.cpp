@@ -1,5 +1,6 @@
 #include "..\unite\Graph\Graph.h"
-int main() {
+int main() 
+{
     // 创建图
     Graph graph(8);
 
