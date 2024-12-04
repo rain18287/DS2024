@@ -1,7 +1,6 @@
-#include"D:\university\shujujiegou\DS2024\unite\Graph\Graph.h"
-// 主函数和测试案例
+#include "..\unite\Graph\Graph.h"
 int main() {
-    // 创建更复杂的图
+    // 创建图
     Graph graph(8);
 
     // 添加边
